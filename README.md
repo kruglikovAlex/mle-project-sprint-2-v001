@@ -11,10 +11,12 @@
 
 Начало работы с проектом:
 
-git clone https://github.com/kruglikovAlex/mle-project-sprint-2-v001.git
+git clone https://github.com/kruglikovAlex/mle-project-sprint-2-v001.git 
+
 pip install -r requirements.txt
 
-тетрадка с исследованием cd model_improvement/project_sprint_2.ipynb
+тетрадка с исследованием:  cd model_improvement/project_sprint_2.ipynb
+
 https://github.com/kruglikovAlex/mle-project-sprint-2-v001/blob/9fad29fc7ceb51cec61b66a068e7987750a5c7db/model_improvement/project_sprint_2.ipynb
 
 Этап 1: Разворачивание MLflow и регистрация модели
